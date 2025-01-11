@@ -1,2 +1,3 @@
-# How-to-build-a-knowledge-system-in-a-field
-How to build a knowledge system in a field. Notes from training
+# Ask Good Question
+
+- [Core Thinking Sequence Questions](https://github.com/reboottime/ask-good-questions/issues/2)
