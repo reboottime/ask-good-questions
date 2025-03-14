@@ -8,3 +8,4 @@
 - [认识世界的三板斧：系统论，信息论，和控制论](https://github.com/reboottime/ask-good-questions/issues/17)
 - [03. 概念｜如何理解学科的概念、定义和属性](https://github.com/reboottime/ask-good-questions/issues/20)
 - [核心概念和流程](https://github.com/reboottime/ask-good-questions/issues/23)
+- [使用 Tana管理大量信息](https://github.com/reboottime/ask-good-questions/issues/25)
